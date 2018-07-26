@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:showDividers="middle">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title_owner"
+            style="@style/titleStyle"
+            android:text="@string/title_owner"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:id="@+id/text_owner"
+            style="@style/textStyle"
+            android:text="@string/text_owner"
+            android:layout_margin="20dp"/>
+
+        <TextView
+            android:id="@+id/title_go"
+            style="@style/titleStyle"
+            android:text="@string/title_go" />
+
+        <TextView
+            android:id="@+id/text_go"
+            style="@style/textStyle"
+            android:text="@string/text_go"
+            android:layout_margin="20dp"/>
+
+        <TextView
+            android:id="@+id/title_easy"
+            style="@style/titleStyle"
+            android:text="@string/title_easy"/>
+
+        <TextView
+            android:id="@+id/text_easy"
+            style="@style/textStyle"
+            android:text="@string/text_easy"
+            android:layout_margin="20dp"/>
+
+        <TextView
+            android:id="@+id/title_buying"
+            style="@style/titleStyle"
+            android:text="@string/title_buying"/>
+
+        <TextView
+            android:id="@+id/text_buying"
+            style="@style/textStyle"
+            android:text="@string/text_buying"
+            android:layout_margin="20dp"/>
+
+        <TextView
+            android:id="@+id/title_donate"
+            style="@style/titleStyle"
+            android:text="@string/title_donate" />
+
+        <TextView
+            android:id="@+id/text_donate"
+            style="@style/textStyle"
+            android:text="@string/text_donate"
+            android:layout_margin="20dp"/>
+    </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

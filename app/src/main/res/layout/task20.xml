@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:showDividers="middle">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!--Category Title-->
+
+            <TextView
+                style="@style/titleStyle"
+                android:layout_margin="20dp"
+                android:text="@string/day20_header" />
+
+            <View style="@style/divider" />
+
+            <!--Task 1-->
+
+            <LinearLayout style="@style/tasklayout">
+                <CheckBox
+                    android:id="@+id/checkbox58"
+                    style="@style/checkBoxStyle" />
+                <TextView
+                    style="@style/titleStyle"
+                    android:text="@string/day20_title1" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                style="@style/textStyle"
+                android:layout_margin="10dp"
+                android:text="@string/day20_text1" />
+            <View style="@style/divider" />
+
+            <!--Task 2-->
+
+            <LinearLayout style="@style/tasklayout">
+                <CheckBox
+                    android:id="@+id/checkbox59"
+                    style="@style/checkBoxStyle" />
+                <TextView
+                    style="@style/titleStyle"
+                    android:text="@string/day20_title2" />
+            </LinearLayout>
+
+            <TextView
+                style="@style/textStyle"
+                android:layout_margin="10dp"
+                android:text="@string/day20_text2" />
+            <View style="@style/divider" />
+
+            <!--Task 3-->
+
+            <LinearLayout style="@style/tasklayout">
+                <CheckBox
+                    android:id="@+id/checkbox60"
+                    style="@style/checkBoxStyle" />
+                <TextView
+                    style="@style/titleStyle"
+                    android:text="@string/day20_title3" />
+            </LinearLayout>
+
+            <TextView
+                style="@style/textStyle"
+                android:layout_margin="10dp"
+                android:text="@string/day20_text3" />
+            <View style="@style/divider" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

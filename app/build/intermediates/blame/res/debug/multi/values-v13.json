@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,714 @@
+<resources>
+    <string name="app_name">Declutter Bug</string>
+
+    <string name="text_calendar">Calendar</string>
+    <string name="text_information">Information</string>
+    <string name="text_tips">Tips</string>
+    <string name="text_task">Tasks</string>
+
+    <!--Information Text-->
+    <string name="title_work">How Does this Work?</string>
+    <string name="text_work">In the next 30 days, you will fully declutter and organize your house. This challenge is about creating a space that feels freeing and putting less focus on the things in your life and a bigger focus on how you live your life. </string>
+    <string name="title_notime">No Time?</string>
+    <string name="text_notime">The daily challenge will take a different amount of time for different people. If you don’t feel like you have that time, you can self pace and customize it to what works for you.</string>
+    <string name="title_whydeclutter">Why Declutter?</string>
+    <string name="bulleted_list">
+        <li>More time for yourself: \nImagine a life with less to clean and organize. Less to store. Less to buy. Less to sell or get rid of. If you have less stuff and less to do, you will automatically gain more time. </li>\n
+        \n<li>More physical space: \nMany times we feel like we do not have enough room and sometimes we even want to move to a bigger house. But here is a simpler solution. Have less stuff. Reduce your belongings and enjoy the pleasant and stress-free view.</li>\n
+        \n<li>More mental space: \nClutter in our houses clutters our minds. Minimalism helps clear and calm our minds so that we have more time and mental energy to think and plan about future progresses. Your productivity will raise with higher energy and more focus.</li>\n
+        \n<li>More long lost memories: \nMany times you will be surprised about what you find under neat that clutter. The usual things you hear during decluttering is "Oh. I did not know this was here! Wow. I thought I had lost it...."</li>\n
+        \n<li>More appreciation for belongings: \nOwning less stuff makes us appreciate, value, and love what we have. When you have one, of something, you take care of it a lot more than when you have many of the same item. </li>
+    </string>
+
+    <!--Tips Text-->
+    <string name="title_owner">Have Owner\’s Permission.</string>
+    <string name="text_owner">Make sure you don\’t violate anyone else\’s territory by discarding items that belong to someone else. Send them the information in this application instead and help them declutter. </string>
+    <string name="title_go">Let Things Go.</string>
+    <string name="text_go">Be realistic about what you really need and don\’t make excuses to keep things that you “might need someday.” Many items in our homes may be useful, but they may not make us happy or add to our functionality. Also, don\’t let others or your nostalgia stop you from keeping or giving away something.</string>
+    <string name="title_easy">Start Easy.</string>
+    <string name="text_easy">It may be hard at first to declutter, but start with the easy things. If not, you may give up on decluttering overall. As you strengthen the ability to reduce, you will be able to make better decisions on the harder things. </string>
+    <string name="title_buying">Stop Buying.</string>
+    <string name="text_buying">Keep in mind that buying countless things got you into this mess in the first place. We accumulate so many items we don\’t need, so think twice before you make more purchases.</string>
+    <string name="title_donate">Actually Donate.</string>
+    <string name="text_donate">After decluttering a bunch of items, you may have a “Donate” pile. Take some time to put this pile into your car and drop it off. If not, this pile will just add more clutter to your house.</string>
+
+    <!--Day 1 Text-->
+    <string name="day1_header">DAY 1: SET YOUR INTENTIONS</string>
+    <string name="day1_title1">Why this challenge?</string>
+    <string name="day1_text1">
+        <li>Why did you made the decision to download this application in the first place? Are you stressed with your current work environment? Want to become a less messy person? Cannot find important items in your house? </li>\n
+        <li>Write these down so that you can look back at them at the end of this challenge.</li>\n</string>
+    <string name="day1_title2">What’s your end goal?</string>
+    <string name="day1_text2">
+        <li>How you want to feel at the end of this challenge? Do you want to walk into a clear, open space everyday? Do you only want to be surrounded by the things you love?</li>\n
+        <li>Write these thoughts down.</li>\n</string>
+    <string name="day1_title3">What are your weaknesses?</string>
+    <string name="day1_text3">
+        <li>What are your weaknesses and what might make you give up on this challenge? Are you unmotivated at night?</li>\n
+        <li>Write down your thoughts and how you plan to overcome these specific hardships throughout this challenge. For example, do you work more efficiently with music on?</li>\n
+        <li>Do your laundry. Gather your dirty clothes and put them in the washing machine because tomorrow we are decluttering your wardrobe.</li>\n</string>
+
+    <!--Day 2 Text-->
+    <string name="day2_header">DAY 2: CLOTHES</string>
+    <string name="day2_title1">Gather Your Clothes</string>
+    <string name="day2_text1">Take your clothing out of its normal space and sort them into do-able categories. By doing this, you will be able to look at your clothing more objectively, notice things that you never noticed about your clothing.\n
+        \nSome common categories are:\n
+        <ul><li>Jumpers, Coats, Jackets, etc.</li>\n
+        <li>Dresses</li>\n
+            <li> T-shirts, Blouses, Singlets, etc.</li>\n
+            <li>Skirts</li>\n
+            <li>Shorts</li>\n
+            <li>Pants</li>\n
+            <li>Pajamas and Loungewear</li>\n
+            <li>Bras and Underwear</li>\n
+            <li>Swimsuits</li>\n
+            <li>Socks</li>\n</ul></string>
+    <string name="day2_title2">Declutter Your Clothes</string>
+    <string name="day2_text2">Go through each clothing item and ask yourself:\n
+        <ul><li>Does this fit with my color palette?</li>\n
+        <li>Does this go with anything else in my wardrobe?</li>\n
+            <li>Does this fit with the vibe boho, minimal, classic) that I want to give off?</li>\n
+            <li>Does this spark joy?</li>\n
+            <li>Does this fit properly and is it comfortable?</li>\n
+            <li>Have I worn it in the past year?</li>\n
+            <li>If someone else was wearing this, would I ask them where they bought it?</li>\n
+            <li>Does this piece make me feel good when I wear it?</li>\n</ul>
+        \nCreate a yes or no pile based on your responses to these questions.
+    </string>
+    <string name="day2_title3">Return, Donate, Sell, Discard</string>
+    <string name="day2_text3">
+        <li>Put your clothes in their designated space. Try folding vertically so you can see your items better.</li>\n
+        <li>Put donated clothes in your car to take to your local thrift store.</li>\n
+        <li>If the clothing is too damaged or worn to donate, discard it.</li>\n</string>
+
+    <!--Day 3 Text-->
+    <string name="day3_header">DAY 3: ACCESSORIES</string>
+    <string name="day3_title1">Gather Your Accessories</string>
+    <string name="day3_text1">Take out your accessories out of their normal space and sort them into categories.\n
+        \nSome common categories are:\n
+        <ul><li>Jewelry (Earrings, Necklaces, Bracelets)</li>\n
+        <li>Hair Accessories (Headbands, Clips, Bows)</li>\n
+            <li>Bags and Belts</li>\n
+            <li>Sunglasses and Readers</li>\n
+            <li>Hats</li>\n
+            <li>Tights and Leg Warmers</li>\n
+            <li>Scarves</li>\n
+            <li>Gloves</li>\n
+            <li>Watch</li>\n</ul></string>
+    <string name="day3_title2">Declutter Your Accessories</string>
+    <string name="day3_text2">Go through each accessory and ask yourself:\n
+        <ul><li>Would I wear this with anything in my wardrobe?</li>\n
+        <li>Does this fit with the vibe I want to give off?</li>\n
+            <li>Does this spark joy?</li>\n
+            <li>Is this comfortable?</li>\n</ul></string>
+    <string name="day3_title3">Return, Donate, Sell, Discard</string>
+    <string name="day3_text3">
+        <li>Put your accessories back in their designated space, organized by category.</li>\n
+        <li>Consider donating some of your accessories if they are usable, but do not fit your current style.</li>\n
+        <li>Try selling your accessories online if you want to make a little cash.</li>\n
+        <li>Discard any remaining accessories that do not fit into any categories.</li>\n</string>
+
+    <!--Day 4 Text-->
+    <string name="day4_header">DAY 4: SHOES</string>
+    <string name="day4_title1">Gather Your Shoes</string>
+    <string name="day4_text1">Lay out all of your shoes to see clearly.\n
+        \nSome common categories are:\n
+        <li>Boots</li>\n
+        <li>Heels</li>\n
+        <li>Pumps</li>\n
+        <li>Wedges</li>\n
+        <li>Sandals</li>\n
+        <li>Sneakers and Athletic</li>\n
+        <li>Oxfords and Loafers</li>\n
+        <li>Designer</li>\n
+        <li>Flats</li>\n</string>
+    <string name="day4_title2">Declutter Your Shoes</string>
+    <string name="day4_text2">Go through each pair of shoes and ask yourself:\n
+        <li>Is this comfortable?</li>\n
+        <li>Is it worn-out or old?</li>\n
+        <li>Does this fit my current style?</li>\n
+        <li>Would I be able to pair this with my current accessories and clothes?</li>\n
+        <li>Have I worn it in the past year?</li>\n</string>
+    <string name="day4_title3">Return, Donate, Sell, Discard</string>
+    <string name="day4_text3">
+        <li>Put your shoes back in the location where you keep them and where you can see all of them clearly.</li>\n
+        <li>Put a bag of shoes that you would like to donate into your car immediately.</li>\n
+        <li>Put up listings to sell shoes to earn some cash.</li>\n
+        <li>Discard shoes that are unusable.</li>\n</string>
+
+    <!--Day 5 Text-->
+    <string name="day5_header">DAY 5: BOOKS AND MAGAZINES</string>
+    <string name="day5_title1">Gather Your Books and Magazines</string>
+    <string name="day5_text1">Just like you did with your other items, take your books out of their normal space and put them all on the floor or your bed.\n
+        \n</string>
+    <string name="day5_title2">Declutter Your Books and Magazines</string>
+    <string name="day5_text2">Remind yourself that your books do not define you. Owning less books does not make you unintelligent or uninteresting. Owning more books does not make you smarter or more interesting. The memories from the books you have read are forever with you. Having their physical presence does not make the memories more real.\n\n
+        Go through each book and ask yourself:\n
+        <li>Do I just love the cover of this book or do I truly love the book itself?</li>\n
+        <li>Do I only feel like I need this book to look like a cooler person when people come over?</li>\n
+        <li>Do I feel like I need to keep this book just because it’s expensive, or part of an expensive set?</li>\n
+        <li>Have I even read this book?</li>\n
+        <li>Would I be able to pair this with my current accessories and clothes?</li>\n
+        <li>For reference books, is the information in it actually relevant and current and do I really use it?</li>\n
+        <li>For recipe books, have I ever used it to cook a meal? If so, can I photograph the recipe I used and store it on an app?</li>\n
+        <li>Does it spark joy?</li>\n</string>
+    <string name="day5_title3">Return, Donate, Sell, Discard</string>
+    <string name="day5_text3">
+        <li>Return your books to their designated space. Decide how to store them by asking yourself: Do you usually go to your bookshelf with an author in mind? Or do you go by genre or emotion? Do not store them by size, color, or shape and focus on storing your books upright for accessibility and space-saving.</li>\n
+        <li>By letting go of books, you are able to share them with someone else.You could take them to your nearest second hand book store, a library, or give them to your book loving friend. Otherwise, you can put them up on Craigslist for someone to purchase.</li>\n
+       </string>
+
+    <!--Day 6 Text-->
+    <string name="day6_header">DAY 6: BREAK</string>
+    <string name="day6_title1">Take a break.</string>
+    <string name="day6_text1">You deserve it. Great progress!</string>
+
+    <!--Day 12 Text-->
+    <string name="day12_header">DAY 12: BREAK</string>
+    <string name="day12_title1">Take a break.</string>
+    <string name="day12_text1">You deserve it. Great progress!</string>
+
+    <!--Day 18 Text-->
+    <string name="day18_header">DAY 18: BREAK</string>
+    <string name="day18_title1">Take a break.</string>
+    <string name="day18_text1">You deserve it. Great progress!</string>
+
+    <!--Day 24 Text-->
+    <string name="day24_header">DAY 24: BREAK</string>
+    <string name="day24_title1">Take a break.</string>
+    <string name="day24_text1">You deserve it. Great progress!</string>
+
+
+    <!--Day 7 Text-->
+    <string name="day7_header">DAY 7: PAPER</string>
+    <string name="day7_title1">Gather Your Paper Items</string>
+    <string name="day7_text1">Go get all of the papers in your house and put them on your floor. \n
+        \nSome common categories are:\n
+        <li>Mail (Letters, Junk Mail, Tax Records, Bills, Bank Statements)</li>\n
+        <li>Wallet and Purse Items (Business Cards, Receipts, Takeout Items)</li>\n
+        <li>Informative Booklets (Pamphlets, Warranties, Manuals for your microwave, fridge, camera, etc.)</li>\n
+        <li>Certification (Birth, Education, Marriage)</li>\n
+        <li>Vehicle titles</li>\n
+        <li>Loan documents</li>\n
+        <li>Recipes</li>\n
+        <li>Old Assignments, Handwritten Notes</li>\n
+        <li>Printed Photos</li>\n</string>
+    <string name="day7_title2">Declutter Your Paper Items</string>
+    <string name="day7_text2">As a blanket rule, the only physical papers that you actually need to hang on to are important such as government-related, important loans, and unpaid bills.\n
+        \nWhat should you keep?\n
+        <li>Letters for Actioning</li>\n
+        <li>Relevant warranties that are still in date</li>\n
+        <li>Any current insurance policies</li>\n
+        <li>Vehicle Titles, Registration Documents</li>\n
+        <li>Loan Documents</li>\n
+        <li>Bank and Superannuation Statements</li>\n
+        <li>Birth, Marriage, and Divorce Certificates</li>\n
+        <li>Wills and Power of Attorney</li>\n
+        <li>Tax Records</li>\n
+        <li>Certificates and Qualifications</li>\n
+        <li>Medical Documents</li>\n
+        \nTake photos of the rest and store them online.</string>
+    <string name="day7_title3">Store, Recycle, Plan</string>
+    <string name="day7_text3">
+        <li>Recycle any paper that you are not keeping. Be sure to shred or destroy anything that has personal information.</li>
+        <li>Rather than letting the paper pile up again, reduce the amount of incoming paper in your life. You can unsubscribe from any paper based subscription that you have, opt to get your banking or superannuation statements online, and vow to never ask for a receipt if you do not need it or take a picture of the receipt. You can place a no junk mail sticker on your mailbox as well.</li>
+        <li>Put all of the papers that you have kept in a folder or a plastic sleeve, grouping similar papers. Make sure to designate your folder to its own space.</li>\n
+    </string>
+
+    <!--Day 8 Text-->
+    <string name="day8_header">DAY 8: SOCIAL MEDIA</string>
+    <string name="day8_title1">Unfollow, Unsubscribe, and Unfriend</string>
+    <string name="day8_text1">Look through each of your social media accounts (Instagram, Facebook, Snapchat, Twitter, YouTube) one at a time.\n
+        \nGo through each person that you follow, subscribe to, or are friends with and ask yourself:\n
+        <li>Who is this? If you do not know who or what the person or brand is, they do not need to take up space on your feed.</li>\n
+        <li>How do their posts make you feel? If their account sparks jealousy, anger, sadness or even nothing at all, unfollow them. If their posts make you feel connected, inspired or creative, keep them.</li>\n
+        <li>Have I liked any of their last 10 posts? This is a good way to clarify whether you really appreciate the content that they post.</li>\n
+    </string>
+    <string name="day8_title2">Turn Off Notifications</string>
+    <string name="day8_text2">Go into your phone settings and turn off the notifications for all of your social media platforms. The goal is to be proactive rather than reactive with social media. You can still check your social media, but you get to choose when.\n
+    </string>
+    <string name="day8_title3">Declutter Email Inbox</string>
+    <string name="day8_text3">
+        <li>If you are feeling extra in the mood to purge, unroll.me is the best website to bulk unsubscribe from emails. Challenge yourself to unsubscribe from what you do not love and value and cull your inbox down to only emails that still need actioning.</li>\n
+        <li>Take your Instagram or Facebook one step further by deleting old posts that are just not you anymore.</li>\n
+    </string>
+
+    <!--Day 9 Text-->
+    <string name="day9_header">DAY 9: ELECTRONICS</string>
+    <string name="day9_title1">Gather Your Electronics</string>
+    <string name="day9_text1">
+        \nSome common categories are:\n
+        <li>Hair Styling Tools (Hair straighteners, Dryers, Curlers)</li>\n
+        <li>Vaccuums</li>\n
+        <li>Irons</li>\n
+        <li>Camera Equipment (Lenses, Mics, Drones, etc.)</li>\n
+        <li>TV Equipment (TVs, Remotes, DVDs, CDs, VCR Players)</li>\n
+        <li>Radios</li>\n
+        <li>Phone Equipment (Cords, Light Up Phone Cases)</li>\n
+        <li>Game Consoles</li>\n
+        <li>MP3 Players</li>\n
+        <li>Laptops</li>\n
+        <li>Printers</li>\n
+        <li>Game Consoles and Console Games</li>\n
+        <li>Tablets or eReaders</li>\n
+        <li>Headphones</li>\n
+        <li>Scanners</li>\n
+        <li>Walkie Talkies</li>\n
+        <li>External Hard Drives</li>\n
+        <li>Walkie Talkies</li>\n
+        <li>USBs</li>\n</string>
+    <string name="day9_title2">Declutter Your Electronics</string>
+    <string name="day9_text2">Pick up each item and ask yourself:\n
+        <li>Do I know what this item does and how to use it? If you do not know what an item does or how to use it, it is time to let it go.</li>\n
+        <li>Have I used this item in the past 3-6 months? If you do not use it, get rid of it. This includes items that you have put into storage just in case.</li>\n
+        <li>Does it work? If it does not work, let it go.</li>\n
+        <li>Does it work well? If you still have a digital camera that takes horrible photos compared to your phone, get rid of it.</li>\n
+        <li>Does it bring me joy?</li>\n
+        <li>Is this a DVD or a CD? If you still have DVDs and CDs after your decluttering process, consider transferring them to your computer and discarding the physical copies.</li>\n
+    </string>
+    <string name="day9_title3">Return, Donate, Sell, Discard</string>
+    <string name="day9_text3">
+        <li>Designate a specific spot for all of the remaining electronics that you own.</li>\n
+        <li>If your electronics are usable, consider taking them to your local thrift store.</li>\n
+        <li>Photograph anything you want to sell online and upload the listings. Selling things is not selfish or unnecessary; electronics can get expensive. </li>\n
+        <li>Once you have gone through all of your electronics, you can discard the ones that do not fit into any category. Remember that some electronics contain hazardous materials and there are different recycling centers.</li>\n
+    </string>
+
+    <!--Day 10 Text-->
+    <string name="day10_header">DAY 10: COMPUTER</string>
+    <string name="day10_title1">Delete to Declutter</string>
+    <string name="day10_text1">
+        Some easy steps to clear your computer are:\n
+        <li>Delete everything in your Downloads.</li>\n
+        <li>Delete everything off of your Desktop.</li>\n
+        <li>Empty your Trash.</li>\n
+        <li>Uninstall programs and application that you do not use.</li>\n
+        <li>If you are on a Mac, remove any programs from your dock that you do not use regularly</li>\n</string>
+    <string name="day10_title2">Create a Folder Structure</string>
+    <string name="day10_text2">Your computer should be self explanatory and easy to navigate. To give you some inspiration, here are some examples:\n
+        <li>Media > Books, Movies, TV Shows, Music, Photos</li>\n
+        <li>Personal Documents > Identification, Bills, Health, etc.</li>\n
+        <li>Projects > Subfolders for Personal Projects</li>\n
+        <li>Professional > Job Applications, Work Projects, etc.</li>\n
+    </string>
+    <string name="day10_title3">Drag Your Files and Repeat</string>
+    <string name="day10_text3">
+        <li>Do I need to keep this for record reasons?</li>\n
+        <li>Will I ever refer to this again?</li>\n
+        <li>For media, does this spark joy?</li>\n
+        \nRepeat steps 1 and 2 for your external hard drive, Dropbox, Google Drive, browser bookmarks, browser extensions and any other storage services you use.\n
+    </string>
+
+    <!--Day 11 Text-->
+    <string name="day11_header">DAY 11: PHONE</string>
+    <string name="day11_title1">Declutter Your Apps</string>
+    <string name="day11_text1">
+        Open up each of your applications and ask yourself:\n
+        <li>Do I use this app regularly?</li>\n
+        <li>Do I have another app that does exactly what this one does?</li>\n
+        <li>Does using this app add value to my life?</li>\n
+        <li>Uninstall all apps that do not qualify.</li>\n
+        <li>Create folders for different app categories (Social Media, Photos, Life Organization, etc.) and place all of your remaining apps into their appropriate folder.</li>\n
+        <li>Put the most important and most often used apps on the front screen of your phone.</li>\n</string>
+    <string name="day11_title2">Declutter Your Contacts</string>
+    <string name="day11_text2">Go through your list of contacts and ask yourself:\n
+        <li>Do I know this person?</li>\n
+        <li>Do I talk to this person through messages or calls?</li>\n
+        <li>Have I ever used their phone number?</li>\n
+    </string>
+    <string name="day11_title3">Declutter Your Messages</string>
+    <string name="day11_text3">
+        Delete all of your messages except for message threads that are ongoing. Keep messages with your mother. Delete messages with the blind date you never saw again.\n
+    </string>
+
+    <!--Day 13 Text-->
+    <string name="day13_header">DAY 13: FRIDGE AND PANTRY</string>
+    <string name="day13_title1">Gather Your Food</string>
+    <string name="day13_text1">
+        <li>Go through each item in your cupboards, fridge, pantry, and counter.</li>\n
+        <li>Make sure you take them out of their normal space so you can see each item clearly. </li>\n
+    </string>
+    <string name="day13_title2">Declutter Your Food</string>
+    <string name="day13_text2">Go through each item and ask yourself:\n
+        <li>Is this out of date?</li>\n
+        <li>Am I ever going to eat this? For example, you may have purchased tons of healthy snacks, but never had the taste buds for them.</li>\n
+        <li>Do I ever want to eat this? For example, you are trying to become healthier and do not want to keep any more junk food in the house.</li>\n
+    </string>
+    <string name="day13_title3">Discard, Donate, Return</string>
+    <string name="day13_text3">
+        <li>Chuck all unwanted food items in your trashcan. </li>\n
+        <li>If you have multiple canned foods, consider donating them.</li>\n
+        <li>Place the items that you have decided to keep where they belong. Make sure you group items together that are similar and make the most efficient use of space.</li>\n
+    </string>
+
+    <!--Day 14 Text-->
+    <string name="day14_header">DAY 14: KITCHEN EQUIPMENT</string>
+    <string name="day14_title1">Gather Your Kitchen Items</string>
+    <string name="day14_text1">Take all of your kitchen items out of their normal space.\n
+        \nSome common categories are:\n
+        <li>Crockery + Cutlery (Knives, Forks, Spoons, Teaspoons, Bowls, Plates, Mugs, Glasses and Cups, Serving Dishes)</li>\n
+        <li>Utensils (Chopping Boards, Pans, Trays and Tins, Strainers, Serving, Soup Spoons, Rolling Pins, Peelers and Graters, Presses, Can Openers, Measurers, Mixing Bowls, Tongs, etc.)</li>\n
+        <li>Appliances (Toasters, Grillers, Blenders, Special Food Makers, Food Processors, Rice Cookers, etc.)</li>\n
+        <li>Chemicals + Cleaning Products (Dish Scrubbers, Dish Rags, Dish Soap)</li>\n</string>
+    <string name="day14_title2">Declutter Your Kitchen Items</string>
+    <string name="day14_text2">Go through each item and ask yourself:\n
+        <li>Do I really need this many of these? For example, you do not need 20 bowls when you are in a two person household.</li>\n
+        <li>Is this only used on special occasions? If so, try to make special occasion items normal items.</li>\n
+        <li>Do I use this? For example, do you really need a fancy banana chopper?</li>\n</string>
+    <string name="day14_title3">Discard, Donate, Return</string>
+    <string name="day14_text3">
+        <li>Throw all unusable utensils, crockery, cutlery and appliances into your trashcan. Keep in mind there may be special guidelines for throwing away electrical items.</li>\n
+        <li>If you have usable utensils, crockery, cutlery and appliances that you no longer use, put them in your car for donating. </li>\n
+        <li>Quickly wipe over your fridge, pantry and cupboards.</li>\n
+        <li>Place the kitchen items that you have decided to keep and place them where they belong, grouping like items together.</li>\n
+    </string>
+
+    <!--Day 15 Text-->
+    <string name="day15_header">DAY 15: LINEN CLOSET</string>
+    <string name="day15_title1">Gather Your Linen Items</string>
+    <string name="day15_text1">As usual, take all of your linen items out of their normal space such as a cupboard, spare room, laundry room, etc.\n
+        \nSome common categories are:\n
+        <li>Sheets</li>\n
+        <li>Doona Covers</li>\n
+        <li>Pillow Cases</li>\n
+        <li>Rags</li>\n
+        <li>Towels</li>\n
+        <li>Hand and Hair Towels</li>\n
+        <li>Tablecloths</li>\n
+        <li>Blankets</li>\n
+        <li>Throws</li>\n</string>
+    <string name="day15_title2">Declutter Your Linen Items</string>
+    <string name="day15_text2">Go through each item and ask yourself:\n
+       <li>Is it discolored, unfit, scratchy, old, ripped or uncomfortable to use?</li>\n
+        <li>Have I used it in the last four months?</li>\n
+        <li>Is it a duplicate?</li>\n
+        <li>Do I enjoy using it?</li>\n</string>
+    <string name="day15_title3">Discard, Donate, Return</string>
+    <string name="day15_text3">
+        <li>Throw away items that you no longer need in your life.</li>\n
+        <li>Before you donate everything, check in with your local animal shelter. They are always searching for sheets and towels to help keep animals cozy. You will feel great about helping little pups stay warm.</li>\n
+        <li>Clean out your linen closet and put like items where they belong.</li>\n
+    </string>
+
+    <!--Day 16 Text-->
+    <string name="day16_header">DAY 16: MEDICINE CABINET</string>
+    <string name="day16_title1">Gather Your Medicine Cabinet Items</string>
+    <string name="day16_text1">Lay out all your items on the floor.\n
+        \nSome common categories are:\n
+        <li>Oral Medication (Acetaminophen, Ibuprofen, Benadryl, Cough Syrup)</li>\n
+        <li>Creams and Lotions (Hydrocortisone, Calamine, Antibacterial Ointment, Petroleum Jelly)</li>\n
+        <li>Thermometer</li>\n
+        <li>Tweezers</li>\n
+        <li>Soap</li>\n
+        <li>Bandages and Gauze Pads</li>\n
+        <li>Disinfectant Wipes</li>\n
+        <li>Insect Repellant</li>\n
+        <li>Eye Drops</li>\n
+        <li>Cotton Balls and Swabs</li>\n
+        <li>Dosage Spoons and Cups</li>\n
+	    <li>Sunscreen and Aloe Vera</li>\n</string>
+    <string name="day16_title2">Declutter Your Medicine Cabinet Items</string>
+    <string name="day16_text2">Go through each item and ask yourself:\n
+       <li>If it is medication, has it expired?</li>\n
+        <li>Is it old and damaged?</li>\n
+        <li>Has it made a mess in your cabinet?</li>\n
+        <li>Is it a duplicate? For example, you do not need ten different bottles of sunscreen.</li>\n</string>
+    <string name="day16_title3">Discard and Return</string>
+    <string name="day16_text3">
+        <li>Discard expired items and duplicates of items that you do not want anymore.</li>\n
+        <li>Return the rest of the items to a designated space in the cabinet. Be sure to put similar items together and place a towel underneath to avoid mess.</li>\n
+    </string>
+
+    <!--Day 17 Text-->
+    <string name="day17_header">DAY 17: MAKEUP AND SKINCARE</string>
+    <string name="day17_title1">Gather Your Makeup and Skincare Items</string>
+    <string name="day17_text1">Lay out all your items on the floor.\n
+        \nSome common categories are:\n
+        <li>Makeup Brushes</li>\n
+        <li>Face Products (Primer, Foundation, Concealer, Powder, Blush, Highlight, Bronzer, Contour, Setting Spray, etc.)</li>\n
+        <li>Eye Products (Mascara, Eyeliner, Eyeshadow, Fake Lashes, Lash Glue, Eye Primer, etc.)</li>\n
+        <li>Lip Products (Lip Gloss, Lip Liner, Lipstick, Lip Velour, Lip Plump, etc.)</li>\n
+        <li>Skin Products (Cleansers, Exfoliators, Serums, Moisturizers, Sun Care)</li>\n</string>
+    <string name="day17_title2">Declutter Your Makeup and Skincare Items</string>
+    <string name="day17_text2">Go through each product or tool and ask yourself:\n
+       <li>Is this out of date? Look online for the shelf life of certain makeup items, so you are not using expired products.</li>\n
+        <li>Does this spark joy?</li>\n
+        <li>Do I use this?</li>\n
+        <li>Does using this make me feel confident and happy?</li>\n</string>
+    <string name="day17_title3">Discard, Sell, and Return</string>
+    <string name="day17_text3">
+        <li>Most thrift shops will not take used-makeup for hygienic reasons, so you will need to bag up any unwanted makeup and dispose it.</li>\n
+        <li>There are some websites that will pay for barely-used makeup if it is fully sanitized and then replace it. Check out places like Glambot If you want to go down that route.</li>\n
+        <li>Once you have discarded your makeup, return all of your leftover makeup and skincare back to where it belongs, grouping like items together for easy access.</li>\n
+    </string>
+
+    <!--Day 19 Text-->
+    <string name="day19_header">DAY 19: GARAGE</string>
+    <string name="day19_title1">Gather Your Garage Items</string>
+    <string name="day19_text1">Go through your garage and put everything into one pile on the floor. Park outside of your garage or on a side street so you have more room.\n
+        \nSome common categories are:\n
+        <li>Tools and Toolbox (Wrench, Claw Hammer, Nails, Screws, Screwdrivers, Pliers, Tape Measure)</li>\n
+        <li>Old Paint Cans</li>\n
+        <li>Ladder</li>\n
+        <li>Garden Hose</li>\n
+        <li>Work Gloves</li>\n
+        <li>Power Strips and Extension Cords</li>\n
+        <li>Motor Oil</li>\n</string>
+    <string name="day19_title2">Declutter Your Garage Items</string>
+    <string name="day19_text2">Go through each item you found in your garage and ask yourself:\n
+       <li>When was the last time I used this?</li>\n
+        <li>Does this spark joy?</li>\n
+        <li>Do I really need this?</li>\n
+        <li>Do I know what this tool does?</li>\n</string>
+    <string name="day19_title3">Discard and Return</string>
+    <string name="day19_text3">
+        <li>Do a quick sweep of your garage before you place items together in specific categories. Make sure you have enough room for your cars and make the best use of space. Use as much vertical and ceiling space as possible. Try labeling items.</li>\n
+        <li>Discard items that do not belong in your garage or anywhere in your house.</li>\n
+    </string>
+
+    <!--Day 20 Text-->
+    <string name="day20_header">DAY 20: CAR</string>
+    <string name="day20_title1">Gather Your Car Items</string>
+    <string name="day20_text1">Take out all of your car items and put them on the floor where you can see them altogether.\n
+        \nSome common categories are:\n
+        <li>Tire Changing Supplies</li>\n
+        <li>Tire Sealant</li>\n
+        <li>Owner Manual</li>\n
+        <li>Jumper Cables</li>\n
+        <li>Tire Pressure Gauge</li>\n
+        <li>Flashlight</li>\n
+        <li>Duct Tape</li>\n
+        <li>First Aid Kit</li>\n
+        <li>Winter Equipment (Snow Shovel, Ice Scraper, Snow Chains)</li>\n
+        <li>Bottled Water</li>\n
+        <li>Maps</li>\n
+        <li>Weather Radio</li>\n
+        <li>Reflective Triangles</li>\n</string>
+    <string name="day20_title2">Declutter Your Car Items</string>
+    <string name="day20_text2">Go through each car item and ask yourself:\n
+       <li>Does this belong in my car or should it belong somewhere in my house?</li>\n
+        <li>Do I actually use this or will I need to use it for the current season?</li>\n
+        <li>Is it damaged?</li>\n
+        <li>Is my emergency food and water old?</li>\n</string>
+    <string name="day20_title3">Discard and Return</string>
+    <string name="day20_text3">
+        <li>Discard all of the items that do are not essential to your car or belong somewhere else in your house.</li>\n
+        <li>Return the rest of the items to your car. Keep similar items together so you can easily access them.</li>\n
+    </string>
+
+    <!--Day 21 Text-->
+    <string name="day21_header">DAY 21: STATIONERY</string>
+    <string name="day21_title1">Gather Your Stationery</string>
+    <string name="day21_text1">Take out all of your car items and put them on the floor where you can see them altogether.\n
+        \nSome common categories are:\n
+        <li>Tire Changing Supplies</li>\n
+        <li>Tire Sealant</li>\n
+        <li>Owner Manual</li>\n
+        <li>Jumper Cables</li>\n
+        <li>Tire Pressure Gauge</li>\n
+        <li>Flashlight</li>\n
+        <li>Duct Tape</li>\n
+        <li>First Aid Kit</li>\n
+        <li>Winter Equipment (Snow Shovel, Ice Scraper, Snow Chains)</li>\n
+        <li>Bottled Water</li>\n
+        <li>Maps</li>\n
+        <li>Weather Radio</li>\n
+        <li>Reflective Triangles</li>\n</string>
+    <string name="day21_title2">Declutter Your Stationery</string>
+    <string name="day21_text2">Stationery is more of a practical thing than an emotional thing, so ask yourself:\n
+       <li>Is this item in good condition? For example, dried out pens, blunt sharpeners and half filled notebooks that you have not used in months should go.</li>\n
+        <li>Do I enjoy using this item? For example, you might be super specific about what pens you write with and use them consistently.</li>\n
+        <li>Is this a duplicate that I do not need?</li>\n
+        <li>Does this have a purpose in my life? For example, if you have a protractor that you have not used since 8th grade, let it go.</li>\n</string>
+    <string name="day21_title3">Discard and Return</string>
+    <string name="day21_text3">
+        <li>Dedicate one or two drawers to the stationery you own.</li>\n
+        <li>Discard items that do not fit your standards.</li>\n
+        <li>If some of the stationery is usable, take it to your local thrift store as a donation.</li>\n
+    </string>
+
+    <!--Day 22 Text-->
+    <string name="day22_header">DAY 22: TRAVEL ITEMS</string>
+    <string name="day22_title1">Gather Your Travel Items</string>
+    <string name="day22_text1">Take out all of your car items and put them on the floor where you can see them altogether.\n
+        \nSome common categories are:\n
+        <li>Important Travel Documents (Passport, Visa, Travel insurance info, Health insurance cards, Transportation tickets, Reservations and Itineraries)</li>\n
+        <li>Comfort Items (Travel Pillow, Blanket, Eye Mask, Ear Plugs)</li>\n
+        <li>Toiletries and Case</li>\n
+        <li>Travel Guides</li>\n
+        <li>Carry On Bag</li>\n
+        <li>Suitcase</li>\n
+        <li>Travel Gadgets (Camera)</li>\n</string>
+    <string name="day22_title2">Declutter Your Travel Items</string>
+    <string name="day22_text2">Ask yourself:\n
+       <li>If I am going to a hotel or resort, will have these items provided for me?</li>\n
+        <li>Do I really need all of these items?</li>\n
+        <li>Will the plane or train allow your current suitcase or carry on bag?</li>\n
+        <li>Is this item good quality and makes me happy?</li>\n
+        <li>Have I ever used this item?</li>\n</string>
+    <string name="day22_title3">Discard, Donate, Return</string>
+    <string name="day22_text3">
+        <li>Return the travel items to a location where you can easily access them when it is time to travel.</li>\n
+        <li>Discard items that you will never use and cannot donate.</li>\n
+        <li>Donate usable items that someone else would rather enjoy.</li>\n
+    </string>
+
+    <!--Day 23 Text-->
+    <string name="day23_header">DAY 23: HOME DECOR</string>
+    <string name="day23_title1">Gather Your Home Decor</string>
+    <string name="day23_text1">Take out all of your home decor out of its normal space.\n
+        \nSome common categories are:\n
+        	<li>Candles</li>\n
+            <li>Fake Plants</li>\n
+            <li>Jars</li>\n
+            <li>Holders</li>\n
+            <li>Decorative Boxes</li>\n
+            <li>Wall Hangings</li>\n
+            <li>Ornaments</li>\n
+            <li>Lamps</li>\n
+            <li>Vases</li>\n
+            <li>Photo Frames</li>\n
+            <li>Strung Lights</li>\n
+            <li>Posters</li>\n
+            <li>Dream Catchers</li>\n
+            <li>Prints</li>\n</string>
+    <string name="day23_title2">Declutter Your Home Decor</string>
+    <string name="day23_text2">Go through each decor piece and ask yourself:\n
+      	<li>Does this spark joy?</li>\n
+        <li>If you struggle with the spark joy concept, replace that with: Do I love it?</li>\n
+        <li>Does it go with my aesthetic or personal style?</li>\n</string>
+    <string name="day23_title3">Discard, Donate, Return</string>
+    <string name="day23_text3">
+        <li>Return the decor items that you want to keep back to their designated spaces.</li>\n
+        <li>If there is any decor that is not in good condition, discard it.</li>\n
+        <li>Take your decor items up to the local thrift shop.</li>\n
+    </string>
+
+    <!--Day 25 Text-->
+    <string name="day25_header">DAY 25: CRAFT SUPPLIES</string>
+    <string name="day25_title1">Gather Your Craft Supplies</string>
+    <string name="day25_text1">Take out all of your craft supplies out of its normal space.\n
+        \nSome common categories are:\n
+        		<li>Crayons</li>\n
+                <li>Colored Pencils</li>\n
+                <li>Markers</li>\n
+                <li>Oil Pastels</li>\n
+                <li>Chalk</li>\n
+                <li>Paints (Tempera and Watercolor)</li>\n
+                <li>Textiles (Yarn and Thread)</li>\n
+                <li>Stringing and Beading</li>\n
+                <li>Printing</li>\n
+                <li>Tools (Scissors and Paintbrushes)</li>\n
+                <li>Papers</li>\n
+                <li>Glue</li>\n</string>
+    <string name="day25_title2">Declutter Your Craft Supplies</string>
+    <string name="day25_text2">Go through each craft supply and ask yourself:\n
+      	<li>Is this art supply usable? Is it dried out or broken?</li>\n
+        <li>Have I ever used this art supply?</li>\n
+        <li>Are there duplicates?</li>\n
+        <li>What do I plan to create in the future using these art supplies?</li>\n</string>
+    <string name="day25_title3">Discard, Donate, Return</string>
+    <string name="day25_text3">
+        <li>Set a location for all of your craft supplies so that you can see them clearly and end up using all of them. Be sure to keep similar items together.</li>\n
+        <li>Discard items that cannot be reused or donated.</li>\n
+        <li>Donate the rest of your items.</li>\n
+    </string>
+
+    <!--Day 26 Text-->
+    <string name="day26_header">DAY 26: PET ITEMS</string>
+    <string name="day26_title1">Gather Your Pet Items</string>
+    <string name="day26_text1">If you do not have a pet, you can checkmark all of these tasks and take this day to revisit another day. Some of the items listed below may not apply to your pet.\n
+        \nSome common categories are:\n
+        <li>Food and Water Bowls</li>\n
+        <li>Collar</li>\n
+        <li>Leash</li>\n
+        <li>ID Tag</li>\n
+        <li>Metal carrier or crate</li>\n
+        <li>Pet Bed</li>\n
+        <li>Pet Shampoo and Conditioner</li>\n
+        <li>Nail Clippers</li>\n
+        <li>Canine Toothbrush and Toothpaste</li>\n
+        <li>Brush or Comb</li>\n
+        <li>Paper Towels</li>\n
+        <li>Plastic Poop Baggies</li>\n
+        <li>Toys</li>\n
+        <li>Treats</li>\n
+        <li>Non-toxic Cleanser</li>\n
+        <li>Kitty Litter</li>\n</string>
+    <string name="day26_title2">Declutter Your Pet Items</string>
+    <string name="day26_text2">Go through each craft supply and ask yourself:\n
+        <li>Has my pet used this item in the last year?</li>\n
+        <li>Do I force my pet to use this item when they do not like it?</li>\n
+        <li>Does this make my pet happy?</li>\n
+        <li>Do I have space for this?</li>\n</string>
+    <string name="day26_title3">Discard, Donate, Return</string>
+    <string name="day26_text3">
+        <li>Set a location for pet items and keep similar items together.</li>\n
+        <li>Discard items that cannot be reused or donated.</li>\n
+        <li>Donate the rest of your items.</li>\n
+    </string>
+
+    <!--Day 27 Text-->
+    <string name="day27_header">DAY 27: SENTIMENTAL ITEMS</string>
+    <string name="day27_title1">Gather Your Sentimentals</string>
+    <string name="day27_text1">Take any items that are hidden in memory boxes or at the back of the closet out and put them all together in a new space. Remind yourself that minimizing your sentimental items will not make those memories, feelings, or people less real.\n
+        </string>
+    <string name="day27_title2">Declutter Your Sentimentals</string>
+    <string name="day27_text2">Go through each sentimental item and ask yourself:\n
+        <li>Does this item have genuine, lasting emotional value?</li>\n
+        <li>Would I put the item on display, or will it stay in a box forever?</li>\n
+        <li>Is this item holding me back emotionally?</li>\n
+        <li>Do I feel like I need to keep the item out of guilt?</li>\n
+        <li>Will I miss this item if it is not available to me?</li>\n</string>
+    <string name="day27_title3">Discard, Donate, Return</string>
+    <string name="day27_text3">
+        <li>Choose to donate or discard your sentimental items in whatever way you feel is appropriate.</li>\n
+        <li>Return any sentimental items that you have chosen to keep to a designated space.</li>\n
+    </string>
+
+    <!--Day 28 Text-->
+    <string name="day28_header">DAY 28: GIFTS</string>
+    <string name="day28_title1">Gather Your Gifts</string>
+    <string name="day28_text1">This can include gift certificates to that candle you never lit. Place them all on the floor.\n
+Remind yourself that guilt and obligations are not reasons to hold onto material objects. The purpose of a a gift is to express love or friendship for someone.\n
+        </string>
+    <string name="day28_title2">Declutter Your Gifts</string>
+    <string name="day28_text2">Go through each gift you have received and ask yourself:\n
+        <li>Does it fit your style?</li>\n
+        <li>Does it serve your well-being?</li>\n
+        <li>Will you ever use it?</li>\n
+        <li>Does it fit into any of the categories you have decluttered?</li>\n
+    </string>
+    <string name="day28_title3">Discard, Return, Plan</string>
+    <string name="day28_text3">
+        <li>Next time it is time for gift-giving, tell the person exactly what you want and do not feel guilty about it. It is better to get something you actually want than throwing away the gift they spent time finding for you.  Relationships are more important that material possessions. The best gifts for minimalists are your time or experiences.</li>\n
+        <li>If you receive a gift you do not like, be sure to thank the person who gave it to you and pass it onto someone else. Just hope they do not find out.</li>\n
+    </string>
+
+    <!--Day 29 Text-->
+    <string name="day29_header">DAY 29: CHOICE CATEGORY</string>
+    <string name="day29_title1">Pick Any Category</string>
+    <string name="day29_text1">If you collect a certain item, you can declutter it or if you have tons of Christmas decorations. Everyone has a cluttered drawer in their house as well, so choose one. Start by emptying out the entire drawer onto the floor and giving the drawer a little wipe. If it is a removable drawer, take it out so that this process is easier.\n\nRemember this is your last day of physical decluttering, so go hard.\n
+        </string>
+    <string name="day29_title2">Declutter this Category</string>
+    <string name="day29_text2">As of now, you are a pro at decluttering. This time set up your own guiding questions that apply to the categories you have chosen.\n\nSome examples are:\n
+        <li>Does this spark joy?</li>\n
+        <li> Does this provide value in my daily life?</li>\n
+    </string>
+    <string name="day29_title3">Discard, Return, Plan</string>
+    <string name="day29_text3">You know what to do!\n
+    </string>
+
+    <!--Day 30 Text-->
+    <string name="day30_header">DAY 30: REFLECT</string>
+    <string name="day30_title1">Review Your Physical Space</string>
+    <string name="day30_text1"> If you do not feel like you have achieved what you wanted to, write down a list now of what still needs to be done.\n\nChoose to extend this challenge a little longer for yourself and dedicate specific times in the next few days or weeks to check off everything on that list.\n
+        </string>
+    <string name="day30_title2">Review Your Mental Space</string>
+    <string name="day30_text2">If there was a day that particularly resonated with you, revisit that day now. Is there anything you can do to take that challenge one step further?\n\nWrite down any action steps that you might need to take in order to declutter your mental space further.\n
+    </string>
+    <string name="day30_title3">Celebrate</string>
+    <string name="day30_text3">
+        You put in a lot of hard work to complete this challenge. You should reward yourself in any way you would like.\n\nStick to simplicity and be happy with what you have and who you are!\n
+    </string>
+</resources>

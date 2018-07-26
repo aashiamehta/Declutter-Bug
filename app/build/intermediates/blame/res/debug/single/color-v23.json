@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/dde82b8e16daecae6deba4a6762a0ce0bcf631d6/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/aashiamehta/.android/build-cache/17c7e1bfe8627ee4f3d658d8fa7f23e32cc61d31/output/res/color-v23/abc_tint_default.xml"
+    }
+]

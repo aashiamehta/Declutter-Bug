@@ -1,0 +1,7 @@
+#Mon May 08 11:14:43 PDT 2017
+base.0=/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1741aa0832db33b6b6bd9155d694bf43c1975e3a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5fc21fe917e85b873d5c5ab2b9171c5c0fc6337e/classes.dex
+base.1=/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5fc21fe917e85b873d5c5ab2b9171c5c0fc6337e
+file.0=/Users/aashiamehta/Documents/Professional/Declutter Bug Project/30DayDeclutterChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1741aa0832db33b6b6bd9155d694bf43c1975e3a/classes.dex
