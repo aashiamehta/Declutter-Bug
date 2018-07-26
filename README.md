@@ -4,6 +4,12 @@ Declutter Bug is an Android application to declutter your space in 30 days.
 By: Aashia Mehta
 
 ## Functionalities
+
+- [x] The application displays 30 days with various tasks for each day related to gathering items such as clothes, paper, electronics, decor, etc., decluttering these items, and discarding, selling or donating them.
+- [x] There is a progress bar at the bottom and number of days at the top to keep track of the user's completion.
+- [x] The UI is split into three tabs, which includes the calendar with 30 days, information, and tips.
+- [x] The user can checkmark which tasks they have completed each day.
+
 ## Images
 
 <img src='img1.png' width="30%" height="30%"/><img src='img2.png' width="30%" height="30%"/><img src='img3.png' width="30%" height="30%"/><br>
