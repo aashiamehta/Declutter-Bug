@@ -6,9 +6,7 @@ By: Aashia Mehta
 ## Functionalities
 ## Images
 
-<img src='img1.png' width="50%" height="50%"/>
-<img src='img2.png' width="50%" height="50%"/>
-<img src='img3.png' width="50%" height="50%"/>
+<img src='img1.png' width="20%" height="20%"/><img src='img2.png' width="20%" height="20%"/><img src='img3.png' width="20%" height="20%"/>
 <img src='Tips.gif' width="50%" height="50%"/>
 <img src='Checks.gif' width="50%" height="50%"/>
 
