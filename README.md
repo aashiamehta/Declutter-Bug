@@ -7,7 +7,7 @@ By: Aashia Mehta
 ## Images
 
 <img src='img1.png' width="30%" height="30%"/><img src='img2.png' width="30%" height="30%"/><img src='img3.png' width="30%" height="30%"/><br>
-<img src='Tips.gif' width="20%" height="20%"/><img src='Checks.gif' width="20%" height="20%"/>
+<img src='Checks.gif' width="20%" height="20%"/>
 
 ## Notes
 
